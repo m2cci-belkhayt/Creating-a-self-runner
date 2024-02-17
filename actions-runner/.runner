@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-P1KULQ8",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/GhadhqNjTwKJmFAsb8sozSOWSa7UPwYFBQfIRo3Z1qy7X68huQ/",
+  "gitHubUrl": "https://github.com/m2cci-belkhayt/Creating-a-self-runner",
+  "workFolder": "_work"
+}
