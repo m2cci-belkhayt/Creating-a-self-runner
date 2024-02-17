@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "m2cci-belkhayt/Creating-a-self-runner",
+  "pipelineDirectory": "Creating-a-self-runner",
+  "workspaceDirectory": "Creating-a-self-runner\\Creating-a-self-runner",
+  "repositories": {
+    "m2cci-belkhayt/Creating-a-self-runner": {
+      "repositoryPath": "Creating-a-self-runner\\Creating-a-self-runner",
+      "lastRunOn": "02/17/2024 21:28:29 +01:00"
+    }
+  },
+  "lastRunOn": "02/17/2024 21:28:29 +01:00"
+}
