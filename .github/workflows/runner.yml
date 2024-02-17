@@ -27,7 +27,6 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      # Run tests
-      - name: Run tests
+      - name: Build Test Infrastructure
         run: |
-          python -m pytest <your_test_file.py>
+          pip install pytest
