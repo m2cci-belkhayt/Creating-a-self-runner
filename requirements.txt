@@ -1,5 +1,5 @@
 pandas==1.3.5
-numpy==3.4.3
+numpy==1.23.6
 pypiwin32==223
 xlswriter==1.4.6
 openpyxl==3.0.9
