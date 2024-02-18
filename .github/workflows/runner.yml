@@ -30,3 +30,7 @@ jobs:
       - name: Build Test Infrastructure
         run: |
           pip install pytest
+
+      - name: execute test dummy
+        run: |
+         python -m pytest -v test
